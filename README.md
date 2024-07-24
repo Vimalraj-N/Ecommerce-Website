@@ -10,7 +10,9 @@
 </p>
 <p align="center">
     <h3 align="center">Live Demo</h3>
-	<a href="https://vimalraj-n.github.io/Ecommerce-Website/" align="center">Demo Link</a>
+</p>
+<p align="center">
+	<a href="https://vimalraj-n.github.io/Ecommerce-Website/">Demo Link</a>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/languages/top/Vimalraj-N/Ecommerce-Website?style=flat&color=0080ff" alt="repo-top-language">
