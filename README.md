@@ -6,7 +6,7 @@
     <h1 align="center">ECOMMERCE-WEBSITE</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <em>Ecommerce site for Organic Products</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Vimalraj-N/Ecommerce-Website?style=flat&color=0080ff" alt="license">
@@ -25,11 +25,6 @@
 
 
 </details>
-
----
-
-##  Getting Started
-
 
 ###  Installation
 
@@ -50,5 +45,5 @@ cd Ecommerce-Website
 Use the following command to run Ecommerce-Website:
 
 ```sh
-> Run the 
+> Run index.html
 ```
